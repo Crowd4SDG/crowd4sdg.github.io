@@ -28,11 +28,11 @@ Write description here
 
 ### Funding
 
-![EU flag][euflag]{:width="50px"}
+<img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg" width="50" />
 This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under grant agreement No 872944
 
-[euflag]:https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg "EU Flag"
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
