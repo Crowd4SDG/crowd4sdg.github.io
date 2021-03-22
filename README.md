@@ -10,9 +10,14 @@ Write description here
 
 Write description here
 
+
 ## VisualCit
 
-Write description here
+VisualCit provides tools for the social media data science life for twitter, focusing on the selection, geolocalization  and analysis of images extracted from Twitter.
+
+Further details at
+http://pernici.faculty.polimi.it/crowd4sdg-tools-polimi/
+
 
 ## decidim4CS
 
