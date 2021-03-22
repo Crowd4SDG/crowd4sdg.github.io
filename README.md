@@ -1,29 +1,31 @@
-## Welcome to GitHub Pages
+# Introduction to the Crowd4SDG Citizen Science Solution Kit
 
-You can use the [editor on GitHub](https://github.com/Crowd4SDG/crowd4sdg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Write description here. Table with the status of each of the tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Crowd4SDG CSSK components
 
-### Markdown
+Write description here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Builder
 
-```markdown
-Syntax highlighted code block
+Write description here
 
-# Header 1
-## Header 2
-### Header 3
+## VisualCit
 
-- Bulleted
-- List
+Write description here
 
-1. Numbered
-2. List
+## Crowdnalsysis
 
-**Bold** and _Italic_ and `Code` text
+Write description here
 
-[Link](url) and ![Image](src)
+## Crowdinator
+
+Write description here
+
+## decidim4CS
+
+Write description here
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
