@@ -28,8 +28,7 @@ Write description here
 
 ### Funding
 
-<img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg" width="50" />
-This project has received funding from the European Union’s Horizon 2020
+<img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg" width="50" /> This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under grant agreement No 872944
 
 
