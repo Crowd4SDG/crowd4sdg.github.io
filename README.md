@@ -38,7 +38,7 @@ Further details of the tool can be found [here](http://pernici.faculty.polimi.it
 
 Open-source code of decidim4CS is available at [this](https://github.com/Crowd4SDG/decidim4cs) public GitHub repository. 
 
-## Crowdnalsysis
+## Crowdnalysis
 
 The main aim of Crowdnalysis is to ease the statistical analysis of the data gathered by the Project Builder, in order to help the scientist managing the CS project to get the most accurate information from the contributions of volunteers. Specifically, Crowdnalysis is an open-source software [library](https://github.com/Crowd4SDG/crowdnalysis) that provides advanced probabilistic consensus models to aggregate volunteer annotations in CS projects. 
 
@@ -50,7 +50,7 @@ The main aim of Crowdnalysis is to ease the statistical analysis of the data gat
 
 <img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg" width="30" /> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 872944.
 
-
+<!--
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -62,3 +62,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
