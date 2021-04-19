@@ -1,3 +1,6 @@
+
+[<img src="https://crowd4sdg.eu/wp-content/uploads/2020/06/logo.png" title="Crowd4SDG Project's Website"  align="middle" width=250 />](https://crowd4sdg.eu/)
+
 # Introduction to the Crowd4SDG Citizen Science Solution Kit
 
 A citizen science (CS) project leader is a person, group of persons, or organization who is interested in carrying forward a CS project. The Citizen Science Solution Kit (CSSK) is a set of tools built, curated, and maintained by the [Crowd4SDG](https://crowd4sdg.eu) project with the objective to help a CS project leader to successfully advance a CS project. Each of the tools focuses on a common recurring need of CS project leaders given in the table below:
