@@ -43,7 +43,7 @@ Open-source code of decidim4CS is available at [this](https://github.com/Crowd4S
 
 ## Crowdnalysis
 
-The main aim of Crowdnalysis is to ease the statistical analysis of the data gathered by the Project Builder, in order to help the scientist managing the CS project to get the most accurate information from the contributions of volunteers. Specifically, Crowdnalysis is an open-source software [library](https://github.com/Crowd4SDG/crowdnalysis) that provides advanced probabilistic consensus models to aggregate volunteer annotations in CS projects. 
+The main aim of Crowdnalysis is to ease the statistical analysis of the data gathered by the Project Builder, in order to help the scientist managing the CS project to get the most accurate information from the contributions of volunteers. Specifically, Crowdnalysis is an open-source software [library](https://github.com/Crowd4SDG/crowdnalysis) that provides advanced probabilistic consensus models to aggregate volunteer annotations in CS projects. Crowdnalysis is distributed as a Python package via [PyPI](https://pypi.org/project/crowdnalysis/).
 
 ## SDG in Progress
 
