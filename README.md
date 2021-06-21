@@ -13,6 +13,15 @@ Analyze data obtained from a volunteer community | Crowdnalysis
 Extract visual evidence about a situation from images on Twitter,<br />filtering out irrelevant images, and geotagging them | VisualCit
 Document the progress of the CS project | decidim4CS,<br />SDG in Progress
 
+
+## A CSSK case story
+
+The following story represents what a typical story of the usage of the CSSK toolkit could look like:
+
+Jane Doe wants to start a Citizen Science project to help her community in Ruritania be better prepared in case a flooding occurs as a result of climate change. In order to understand what the needs of the community are, she uses [Decidim4CS](#decidim4cs), where she can easily set up a homepage and blog for the project, receive the proposals from the community, organize meetings and request citizens to vote. After three months of debating and self-organizing through Decidim4CS, it has been agreed with the community that better data is needed to make adequate decisions. In particular, they have co-decided that a map of the places which are more likely to get damaged when floods occur would be a very valuable asset for the project, and they are willing to work together to make it. They agree to build the map based on information of the last two floods that took place in Ruritania. By means of [VisualCit](#visualcit) they crawl the tweets containing images from those two floods, filter those images which do not contain images of the floods, and geolocate the tweets. After that, they are left with several thousand images. They create a project in [Project Builder](#project-builder), upload the images and request a set of volunteers to connect to Project Builder and help them classify the images by labeling them with one out of five different levels of damage. They decide that, to improve the quality of the data, each image will be labeled by five different volunteers. Once the volunteers have labeled all the images, they use [Crowdnalysis](#crowdnalysis) to provide them with advanced AI models to go from labels provided by each of the volunteers to a consensus opinion which takes into account the accuracy of the different volunteers, or specific characteristics of the images. After a consensus labeling is established for each image, VisualCit helps visualize a map coloring the different regions of Ruritania with different intensities based on their likelihood to get damage in a flood and visualizing the associated images from the last two floods. Based on the map, Jane decides….
+
+
+
 # Crowd4SDG CSSK components
 
 Current status of the tools are as below:
