@@ -46,7 +46,7 @@ Further details of the tool can be found [here](http://pernici.faculty.polimi.it
 
 ## decidim4CS
 
-[decidim4CS](https://decidim4cs.iiia.csic.es) is a free digital platform for participatory citizen science and it constitutes the deliberation technology used in the Crowd4SDG project. It allows citizen scientists to involve democratically in science projects by providing a plethora of participation options, such as making proposals, scheduling public meetings, making decisions through different forms of voting, and monitoring the implementations of these decisions. decidim4CS is based on [decidim](https://decidim.org), a free open-source software created by the Barcelona City Hall as a participatory democracy platform for cities and organizations.
+[decidim4CS](https://decidim4cs.ml) is a free digital platform for participatory citizen science and it constitutes the deliberation technology used in the Crowd4SDG project. It allows citizen scientists to involve democratically in science projects by providing a plethora of participation options, such as making proposals, scheduling public meetings, making decisions through different forms of voting, and monitoring the implementations of these decisions. decidim4CS is based on [decidim](https://decidim.org), a free open-source software created by the Barcelona City Hall as a participatory democracy platform for cities and organizations.
 
 Open-source code of decidim4CS is available at [this](https://github.com/Crowd4SDG/decidim4cs) public GitHub repository. 
 
